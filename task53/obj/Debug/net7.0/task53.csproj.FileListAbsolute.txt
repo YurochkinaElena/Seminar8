@@ -1,0 +1,15 @@
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\bin\Debug\net7.0\task53.exe
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\bin\Debug\net7.0\task53.deps.json
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\bin\Debug\net7.0\task53.runtimeconfig.json
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\bin\Debug\net7.0\task53.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\bin\Debug\net7.0\task53.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\task53.csproj.AssemblyReference.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\task53.GeneratedMSBuildEditorConfig.editorconfig
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\task53.AssemblyInfoInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\task53.AssemblyInfo.cs
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\task53.csproj.CoreCompileInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\task53.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\refint\task53.dll
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\task53.pdb
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\task53.genruntimeconfig.cache
+D:\5111-2\Я\GeekBrains\C#\Seminar8(1)\task53\obj\Debug\net7.0\ref\task53.dll
